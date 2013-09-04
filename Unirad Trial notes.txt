@@ -2,6 +2,7 @@ tbp: making changes in my branch only. merge after nash
 Nash made changes lol!!
 nash second branch created.
 
+<<<<<<< HEAD
 
 
          .:IHHMHHI:..,
@@ -149,3 +150,6 @@ nash second branch created.
  HHHHHHHHHHHHHHHHHHHH'''''''
  HHHIIIIIII''''
 
+=======
+tbp : started using github software. trying to commit to master
+>>>>>>> e99111954bd16cdcadf7f971c552b215742d1cb5
